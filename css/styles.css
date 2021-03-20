@@ -10112,3 +10112,19 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.box{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.bFlex2 {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+.bFlex2 img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
